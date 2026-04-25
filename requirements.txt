@@ -1,4 +1,4 @@
 pytest-playwright
 pytest-html
 Pillow
-pixelmatch
+pixelmatch-pil
